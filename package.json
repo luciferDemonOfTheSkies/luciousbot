@@ -1,0 +1,19 @@
+{
+  "name": "luciousbot",
+  "version": "1.0.0",
+  "description": "The Bot From Hell",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "author": "Lucifer God Of Demons",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
